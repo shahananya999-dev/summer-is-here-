@@ -1,0 +1,8 @@
+a = int(input("Enter a number"))
+p = int(input("Enter a power"))
+
+product = 1
+5
+for c in range (p):
+    product = product * a
+print(product)
